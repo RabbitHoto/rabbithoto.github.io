@@ -86,15 +86,6 @@
 	<iframe src="//player.bilibili.com/player.html?aid=379147867&bvid=BV1if4y1T7QZ&cid=444018437&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </div>
 
- <center>这扇窗是Windows</center>
- <center>想看点鬼畜笑抽你嘛</center>
- <div align="center">
-	<iframe src="//player.bilibili.com/player.html?aid=3896660&bvid=BV1Hs41197Vu&cid=6267708&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</div>
-<div align="center">
-	<iframe src="//player.bilibili.com/player.html?aid=455966&bvid=BV1Rx411F7Ty&cid=691168&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</div>
-
 <div align="center">
         </div>
 <body>
