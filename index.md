@@ -7,10 +7,10 @@
 最好还是回到Windows 10或者Windows 8.1
 点击这里下载[Windows 10](https://www.microsoft.com/zh-cn/software-download/windows10)点击这边下载[Windows 8.1](https://www.microsoft.com/zh-cn/software-download/windows8ISO)
 
-## <center>下载全新Windows 11</center>
+## <center>微软Windows 11</center>
 
 <div align="center">
-	<iframe src="//player.bilibili.com/player.html?aid=854477240&bvid=BV1E54y1o7FA&cid=730457964&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+	<iframe src="//player.bilibili.com/player.html?aid=600473789&bvid=BV1tB4y1W7kM&cid=760352623&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </div>
 
 # <center>这里为你提供第三方的Windows</center>
@@ -18,7 +18,7 @@
 请你根据实际情况下载
 资源区只提供Windows 原版操作系统(搬运MSDN)Windows 11预览版<br>
 如你不喜欢原版会提供精简版的链接 在此不提供精简版镜像下载链接
->[依兔酱资源区](https://download.hotokokoa.cn/)<br>
+>[依兔酱资源区 尽量不要使用迅雷下载 速度慢](https://download.hotokokoa.cn/)[推荐使用Windows的IDM下载器 破解版请忽略](https://www.internetdownloadmanager.com/download.html)[安卓端推荐ADM下载器](https://www.yxssp.com/download.php?author=gekcs&btitle=%E5%BC%82%E6%98%9F%E8%BD%AF%E4%BB%B6%E7%A9%BA%E9%97%B4&id=24864)<br>
 >[不忘初心精简系统](https://www.pc521.net/)<br>
 >[溯汐潮](https://www.winos.me/)<br>
 >[微软msclub](http://msclub.net/res)<br>
