@@ -18,7 +18,11 @@
 请你根据实际情况下载
 资源区只提供Windows 原版操作系统(搬运MSDN)Windows 11预览版<br>
 如你不喜欢原版会提供精简版的链接 在此不提供精简版镜像下载链接
->[依兔酱资源区 尽量不要使用迅雷下载 速度慢](https://download.hotokokoa.cn/)[推荐使用Windows的IDM下载器 破解版请忽略](https://www.internetdownloadmanager.com/download.html)[安卓端推荐ADM下载器](https://www.yxssp.com/download.php?author=gekcs&btitle=%E5%BC%82%E6%98%9F%E8%BD%AF%E4%BB%B6%E7%A9%BA%E9%97%B4&id=24864)<br>
+# <center>依兔酱资源站</center>
+>[依兔酱资源区](https://download.hotokokoa.cn/)<br>
+>[Windows推荐IDM多线程下载器 破解版请忽略](https://www.internetdownloadmanager.com/download.html)<br>
+>[安卓端推荐ADM下载器](https://www.yxssp.com/download.php?author=gekcs&btitle=%E5%BC%82%E6%98%9F%E8%BD%AF%E4%BB%B6%E7%A9%BA%E9%97%B4&id=24864)<br>
+### <center>尽量别用迅雷 下载慢 开会员也一样</center>
 >[不忘初心精简系统](https://www.pc521.net/)<br>
 >[溯汐潮](https://www.winos.me/)<br>
 >[微软msclub](http://msclub.net/res)<br>
