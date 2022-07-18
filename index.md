@@ -4,7 +4,7 @@
 	<iframe src="//player.bilibili.com/player.html?aid=600473789&bvid=BV1tB4y1W7kM&cid=760352623&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </div>
 
-# <center>这里为你提供第三方的Windows</center>
+# <center>Windows镜像</center>
 
 请你根据实际情况下载
 资源区只提供Windows 原版操作系统Windows 11专业版预览版<br>
@@ -12,7 +12,7 @@
 # <center>依兔酱资源站</center>
 >[依兔酱资源区](https://download.hotokokoa.cn/)<br>
 >[Windows推荐IDM多线程下载器 破解版请忽略](https://www.internetdownloadmanager.com/download.html)<br>
->[安卓端推荐ADM下载器](https://www.yxssp.com/download.php?author=gekcs&btitle=%E5%BC%82%E6%98%9F%E8%BD%AF%E4%BB%B6%E7%A9%BA%E9%97%B4&id=24864)<br>
+>[安卓端推荐ADM多线程下载器](https://www.yxssp.com/download.php?author=gekcs&btitle=%E5%BC%82%E6%98%9F%E8%BD%AF%E4%BB%B6%E7%A9%BA%E9%97%B4&id=24864)<br>
 >[尽量别用迅雷 下载慢 开会员也一样]
 
 >[不忘初心精简系统](https://www.pc521.net/)<br>
@@ -22,6 +22,7 @@
 >[Next ItellYou](https://next.itellyou.cn/)<br>
 >[Hello Windows](https://hellowindows.cn/)<br>
 ### 微软Windows Server 2019临时Hyper-V虚拟机[使用 Microsoft Office 集成](https://docs.microsoft.com/en-us/learn/modules/implement-common-integration-features-finance-ops/10-exercise-1)
+建议使用任务管理器(Taskmgr)结束[Batch ][IIS Worker Process][QSL Server Windows NT-64]占用高内存进程(程序员请绕道)
 
 <div align="center">
 	<iframe src="//player.bilibili.com/player.html?aid=641490567&bvid=BV1pY4y147j9&cid=716672043&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
