@@ -1,3 +1,12 @@
+# <center>你来了 需要依兔酱帮忙吗</center>
+
+小兔兔为你准备了原版Windows，[Windows 11](https://www.bilibili.com/video/BV1oy4y1T7rL)的[Build](https://wiki.betaworld.cn/Windows_11)版本
+点击[这里](https://www.microsoft.com/zh-cn/software-download/windows11)下载Windows 11<br>
+小兔兔在这里提醒一下 有些电脑不太支持[Windows 11](https://www.microsoft.com/zh-cn/windows/windows-11-specifications?r=1)系统[安装要求](https://www.bilibili.com/video/BV1j3411L7bV)
+当然你也可以安装Windows 11 但是会收不到更新<br>
+最好还是回到Windows 10或者Windows 8.1
+点击这里下载[Windows 10](https://www.microsoft.com/zh-cn/software-download/windows10)点击这边下载[Windows 8.1](https://www.microsoft.com/zh-cn/software-download/windows8ISO)
+
 ## <center>微软Windows 11</center>
 
 <div align="center">
